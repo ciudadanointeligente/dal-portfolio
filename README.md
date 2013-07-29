@@ -1,9 +1,9 @@
-Desarrollando America Latina boot
-=================================
+Desarrollando America Latina
+============================
 
 Introduction
 ------------
 
-This contains the basics themes and plugins for the web of desarrollandoamericalatina.org
+This contain the plugin dal-portfolio for the web of desarrollandoamericalatina.org
 
 
